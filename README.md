@@ -6,7 +6,9 @@
 - 👯 I’m looking to collaborate on Image Processing projects 
 
 <a href="https://twitter.com/shivam_aiml">
-<marquee behavior="scroll" direction="left"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </marquee>
+<marquee scrollamount="10"
+direction="left"
+behavior="scroll">img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></marquee>
 </a>
 <a href="https://www.linkedin.com/in/shivam0807/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
