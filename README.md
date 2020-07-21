@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/shivam0807/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/ShivX">
+<a href="https://t.me/sinhashivam0807">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/sinhashivam22/">
