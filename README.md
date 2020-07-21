@@ -1,4 +1,4 @@
-### Hi there ,Shivam👋
+### Shivam👋
 
 
 - 🔭 I’m currently working on Machine Learning
@@ -7,12 +7,6 @@
 
 <a href="https://twitter.com/shivam_aiml">
 <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  <marquee scrollamount="10"
-direction="left"
-behavior="scroll">
-Help! The ship's chasing me...
-<img src="images/vikship.gif" />
-</marquee>
 </a>
 <a href="https://www.linkedin.com/in/shivam0807/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -24,6 +18,6 @@ Help! The ship's chasing me...
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<img src = "https://cdn4.iconfinder.com/data/icons/artificial-intelligence-36/64/artificial-intelligence-ai-avatar-robot-512.png" align = "right" width = 150, height = 150>
+<img src = "https://www.pikpng.com/transpng/Jxwwxo/" align = "right" width = 150, height = 150>
 </br>
  <img src = "https://github-readme-stats.vercel.app/api?username=sinhashivam0807&&show_icons=true&title_color=ff0000&icon_color=ffa500&text_color=ffff00&bg_color=141414">
