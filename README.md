@@ -19,5 +19,5 @@
 </a>
 <img src = "https://cdn4.iconfinder.com/data/icons/artificial-intelligence-36/64/artificial-intelligence-ai-avatar-robot-512.png" align = "right" width = 150, height = 150>
 </br>
- <img src = "https://github-readme-stats.vercel.app/api?username=sinhashivam0807&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=a76bcf">
+ <img src = "https://github-readme-stats.vercel.app/api?username=sinhashivam0807&&show_icons=true&title_color=ffffff&icon_color=141414&text_color=141414&bg_color=a76bcf">
 
