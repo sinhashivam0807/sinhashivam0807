@@ -25,8 +25,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
  
 
-<a href="https://github.com/iampawan">
-  <img align="bottomright" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhashivam0807&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/sinhashivam0807">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhashivam0807&theme=dark&hide_langs_below=1" />
 </a>
 
 <img src = "https://pbs.twimg.com/profile_images/1286182641725616128/4jgiGlWN_400x400.jpg" align = "right" width = 150, height = 150>
