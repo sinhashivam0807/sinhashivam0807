@@ -17,7 +17,9 @@
 <a href="https://www.instagram.com/sinhashivam22/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<img src = "https://github-readme-stats.vercel.app/api?username=sinhashivam0807&&show_icons=true&title_color=ff0000&icon_color=ffa500&text_color=ffff00&bg_color=141414">
+
+
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=sinhashivam0807&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </br>
 </br>
 
@@ -27,8 +29,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
  
-<a href="https://github.com/sinhashivam0807">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhashivam0807&theme=dark&hide_langs_below=1" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhashivam0807&theme=dark" />
 </a>
 </br>
 </br>
